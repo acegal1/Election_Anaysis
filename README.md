@@ -22,7 +22,8 @@ The election commission has requested some additional data to complete the audit
     -The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
 
 Here is a view updated code image:
-![Deliverable_1]((https://github.com/acegal1/Election_Anaysis/blob/main/Resources/Deliverable_1.png)
+'![Deliverable 1 code]((https://github.com/acegal1/Election_Anaysis/blob/main/Resources/Deliverable_1.png)
+![Deliverable 2b updated code](https://github.com/acegal1/Election_Anaysis/blob/main/Resources/Deliverable_2b.png)
 
 ## Deliverable 2 Analysis
 
@@ -34,11 +35,13 @@ In this deliverable we need to write data to a text file, write the winning cand
 
 - The county with the largest number of voters 
 
- Updated code Shown as below :
+ Updated code to show the county requested data :
+        
 
 ![Deliverable 2a updated code](https://github.com/acegal1/Election_Anaysis/blob/main/Resources/Deliverable_2a.png)
 
-![Deliverable 2b updated code](https://github.com/acegal1/Election_Anaysis/blob/main/Resources/Deliverable_2b.png)
+
+'![Deliverable 2b updated code](https://github.com/acegal1/Election_Anaysis/blob/main/Resources/Deliverable_2b.png)
 
 # Election-Audit Results
 
