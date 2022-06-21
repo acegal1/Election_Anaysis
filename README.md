@@ -17,12 +17,12 @@ A Colorado Board of Elections employee has requested an election audit of a U.S.
 ## Deliverable 1 Analysis
 The election commission has requested some additional data to complete the audit so we upadated our PyPoll code as per below requirements:
 
-    -Total Votes in the election are printed to the terminal.
-    -Each candidate’s total votes and percentage of votes are printed to the terminal.
-    -The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
+-Total Votes in the election are printed to the terminal.
+-Each candidate’s total votes and percentage of votes are printed to the terminal.
+-The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
 
 Here is a view updated code image:
-'![Deliverable 1 code]((https://github.com/acegal1/Election_Anaysis/blob/main/Resources/Deliverable_1.png)
+
 ![Deliverable 2b updated code](https://github.com/acegal1/Election_Anaysis/blob/main/Resources/Deliverable_2b.png)
 
 ## Deliverable 2 Analysis
@@ -37,11 +37,8 @@ In this deliverable we need to write data to a text file, write the winning cand
 
  Updated code to show the county requested data :
         
-
 ![Deliverable 2a updated code](https://github.com/acegal1/Election_Anaysis/blob/main/Resources/Deliverable_2a.png)
 
-
-'![Deliverable 2b updated code](https://github.com/acegal1/Election_Anaysis/blob/main/Resources/Deliverable_2b.png)
 
 # Election-Audit Results
 
