@@ -1,4 +1,4 @@
-# Election_Anaysis
+# Election_Analysis
 # Overview of Project Election Audit
 A Colorado Board of Elections employee has requested an election audit of a U.S. Congressional District tabulated results. The following tasks are required to complete the election audit:
 
@@ -11,15 +11,19 @@ A Colorado Board of Elections employee has requested an election audit of a U.S.
 7. Calculate the percentage of votes from each county out of the total.
 
 # Resources
-    - Software: Python 3.9.12
-    - Data Source: election_results.csv
+	- Software: Python 3.9.12
+	- Editor: Visual Studio Code 1.68.1
+	- Data Source: election_results.csv
 
 ## Deliverable 1 Analysis
 The election commission has requested some additional data to complete the audit so we upadated our PyPoll code as per below requirements:
 
--Total Votes in the election are printed to the terminal.
--Each candidate’s total votes and percentage of votes are printed to the terminal.
--The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
+Total Votes in the election are printed to the terminal.
+
+Each candidate’s total votes and percentage of votes are printed to the terminal.
+
+The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
+
 
 Here is a view updated code image:
 
@@ -79,7 +83,7 @@ The county with the largest voter turnout was:
 
 - Denver, which produced 82.8% of voters, for a total of 306,055 voters.
 
-And our final election_result Shown as below:
+Shown below is screenshot of display in VB studio terminal:
 
 ![Election_final result](https://github.com/acegal1/Election_Anaysis/blob/main/Resources/Election_final.png)
 
